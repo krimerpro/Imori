@@ -21,7 +21,6 @@
                                     <div class="mt-5 text-center">
                                       <a href="https://t.me/ImoriProjectBSC" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">Official Group</a><br/>
                                       <a href="https://poocoin.app/tokens/" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">POOCOIN CHART</a>
-                                      <a href="https://twitter.com/ImoriProject" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">TWITTER</a>
                                     </div>
                                 </div>
                             </div>
