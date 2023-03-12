@@ -19,9 +19,8 @@
                                     <h1 class="best-template animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.5s" style="color:purple;margin-top:20px">Imori are the ghosts of dead warriors transformed into geckos. They haunt the forgotten, overgrown ruins where they lost their lives, attacking and harassing trespassers.</h1>
                                     <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:purple">Imori NFTs will be ready for minting soon</h5>
                                     <div class="mt-5 text-center">
-                                      <a href="https://medium.com/@DavidWilliamErc/imori-%E5%AE%88%E5%AE%AE-9ce026502938" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">MEDIUM</a>
-                                      <a href="https://t.me/ImoriProjectErc20" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">Official Group</a><br/>
-                                      <a href="https://www.dextools.io/app/en/ether/pair-explorer/0xa004c8add7c23be23dee60680518d5c1ef7ffdc1" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">DEXTOOLS CHART</a>
+                                      <a href="https://t.me/ImoriProjectBSC" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">Official Group</a><br/>
+                                      <a href="https://poocoin.app/tokens/" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">POOCOIN CHART</a>
                                       <a href="https://twitter.com/ImoriProject" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;">TWITTER</a>
                                     </div>
                                 </div>
@@ -71,7 +70,7 @@
 
                             <div style="margin-bottom:15px;border-bottom-style: solid;">
                                 <h3 style="font-size:16px">Max Supply</h3>
-                                <h4 style="font-size:24px;color:purple">8.000.000</h4>
+                                <h4 style="font-size:24px;color:purple">10.000.000</h4>
                             </div>
 
                             <div style="margin-bottom:15px;border-bottom-style: solid;">
@@ -85,17 +84,17 @@
 
                             <div style="margin-bottom:15px;border-bottom-style: solid;">
                                 <h3 style="font-size:16px">Tax</h3>
-                                <h4 style="font-size:24px;color:purple">5% Buy | 5% Sell</h4>
+                                <h4 style="font-size:24px;color:purple">4% Buy | 4% Sell</h4>
                             </div>
 
                             <div style="margin-bottom:15px;border-bottom-style: solid;">
                                 <h3 style="font-size:16px">Max Wallet</h3>
-                                <h4 style="font-size:24px;color:purple">5%</h4>
+                                <h4 style="font-size:24px;color:purple">4%</h4>
                             </div>
 
                             <div style="margin-bottom:15px;border-bottom-style: solid;">
                                 <h3 style="font-size:16px">Max Tx</h3>
-                                <h4 style="font-size:24px;color:purple">5%</h4>
+                                <h4 style="font-size:24px;color:purple">4%</h4>
                             </div>
 
                         </div>
@@ -103,7 +102,7 @@
                         <div class="col-md-12 col-lg-12 text-center">
                           <div style="margin-bottom:15px;">
                               <h3 style="font-size:16px">Initial LP</h3>
-                              <h4 style="font-size:24px;color:purple">0.5 WETH</h4>
+                              <h4 style="font-size:24px;color:purple">2 BNB</h4>
                           </div>
                         </div>
                     </div>
